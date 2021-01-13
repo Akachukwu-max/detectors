@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>a
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Project</title>
+    <link href="my project.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+    <header>
+        <h1>St.Paul's Academy,Jos</h1>
+    </header>
+    <h3>Address: Old Bukuru Park, Jos.
+    P.O.Box 877, Jos.
+    Phone No:08020751312, 08033059218, 08160298508.</h3>
+    <section>
+        <form>
+            <input type="search" name="search" placeholder="Search"><br>
+          </form>
+        <nav>
+            <ul>
+                <li><a href="myproject.html">Home</a></li>
+                <li><a href="aboutus.html">Our School</a></li>
+                <li><a href="news.html">Blog/News</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="sociacontact.html">Our teachers</a></li>
+                <li><a href="account.html">Account</a></li>
+        </nav>
+        </section>
+        <article>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ea est neque voluptatum labore doloribus. Odit asperiores dolores placeat facilis dolorum, eum corrupti consectetur sunt minima, temporibus libero magni modi.
+        </article>
+        <p><button>Class Lessons</button><br></p>
+        <p><button>Questions and Answers</button><br></p>
+        <p><button>Our Teachers</button><br></p>
+        <p><button>Pick your Subject</button><br></p>
+</body>
+</html>
